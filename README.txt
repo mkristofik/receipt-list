@@ -14,6 +14,12 @@ the heavy lifting, and some Python glues it all together.  This project
 supports three formats currently: Bank of America, American Express, and Citi
 Mastercard.
 
+REQUIREMENTS
+
+Google Chrome browser
+jQuery 1.6.1 (included)
+Any flavor of Microsoft Windows with a command prompt
+
 USAGE
 
 amex ofx.csv
