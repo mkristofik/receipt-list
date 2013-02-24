@@ -4,6 +4,6 @@
 ::           http://www.boost.org/LICENSE_1_0.txt)
 
 @echo off
-grep -P "\d\d-" %1 | grep "[-|+] " | python money.py - > money.html
+python c:\python27\scripts\pdf2txt.py -t tag %1 | python money.py - > money.html
 chrome.exe file:///%cd%/money.html
 del /p %1
