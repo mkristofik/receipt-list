@@ -29,8 +29,8 @@ citi MM-DD-YYYY.txt
     Citi Mastercard credit card statement.  Download your statement using the
     "custom Delimiter" option and enter a comma.
 money eStmt_MM_DD_YYYY.txt
-    Bank of America bank statement.  Text format statements are available on
-    the Statements tab of each account in Online Banking.
+    Bank of America bank statement.  PDF format statements are available on
+    the Statements & Documents tab of each account in Online Banking.
 
 LICENSE
 
